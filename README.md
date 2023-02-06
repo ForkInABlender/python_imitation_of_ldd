@@ -15,4 +15,4 @@ The reason to do such is that it will improve the code and your understanding of
 # Purpose of this library:
  the purpose is to analyze binaries, find functions, their names, and other libraries used the functions' addresses. This also could be used, with
   unicorn-engine & ctypes modules, to interface libraries & their functions to be usable by ctypes and a python based kernel... (here's a hint, I built one and it is
-   sitting in my project-graveyard. You know what to do with it if you don't faff off and ignore shit)
+   sitting in my project-graveyard.)
